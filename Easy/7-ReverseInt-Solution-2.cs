@@ -5,7 +5,7 @@
 
 public class Solution {
     public int Reverse(int myNumber) {
-      double result = 0;                                             //We'll manually handle int32 min/max values
+      double result = 0;                                                   //We'll manually handle int32 min/max values
 
       while(myNumber != 0){
         result = result * 10 + (myNumber%10);

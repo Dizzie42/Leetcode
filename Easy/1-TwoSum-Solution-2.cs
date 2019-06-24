@@ -1,5 +1,5 @@
 /*
-Solution number 2 - Hash Table, O(n), space O(n)
+Solution number 2 - Hash Table, 1 loop, O(n), space O(n)
 */
 
 public class Solution {
