@@ -2,7 +2,7 @@
 Takes a string of a roman numeral between 1 and 3999 outputs the int value
 Brute force approach processing string char by char
 
-Time - Slow, loops through entire string
+Time - Slow
 Space - Users lots of space, dictionary of roman numerals and always keeping prev value
 */
 
