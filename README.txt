@@ -1,3 +1,8 @@
-My leetcode submissions will go here.
+LeetCode/Codecademy Submissions
+=======
 
-Plans to do roughly 40 'Easy' and 20 'Medium'
+
+TODO
+=======
+  -Add 40 'Easy' and 20 'Medium' solutions
+  -Upload codecademy submissions from local
